@@ -38,7 +38,6 @@ class negativeFilter:
 		return dst
 
 
-
 tmp_canvas = negativeFilter()
 file_name = "car.jpg" #File_name will come here
 res = tmp_canvas.render(file_name)

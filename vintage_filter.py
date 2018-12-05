@@ -37,6 +37,7 @@ class vintageFilter:
 
 		return newImage
 
+
 tmp_canvas = vintageFilter()
 file_name = "car.jpg" #File_name will come here
 res = tmp_canvas.render(file_name)

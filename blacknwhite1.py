@@ -43,6 +43,7 @@ class BlacknWhite1:
 		img_gray = cv2.cvtColor(img_rgb, cv2.COLOR_RGB2GRAY)
 		return img_gray
 
+
 tmp_canvas =BlacknWhite1()
 file_name = "car.jpg" #File_name will come here
 res = tmp_canvas.render(file_name)
