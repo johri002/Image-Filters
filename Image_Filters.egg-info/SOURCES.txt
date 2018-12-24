@@ -1,0 +1,7 @@
+README.md
+setup.py
+Image_Filters.egg-info/PKG-INFO
+Image_Filters.egg-info/SOURCES.txt
+Image_Filters.egg-info/dependency_links.txt
+Image_Filters.egg-info/requires.txt
+Image_Filters.egg-info/top_level.txt
